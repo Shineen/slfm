@@ -13,3 +13,6 @@
 * 基于`PHPFM(0.9.8)`修改，详见[http://phpfm.sourceforge.net/](http://phpfm.sourceforge.net/)
 * 修改后主页 [http://www.loveyu.net/slfm](http://www.loveyu.net/slfm)
 * 修改者 : [loveyu](http://www.loveyu.org/3887.html)
+
+Sponsors
+<a href="https://www.xndoll.com/mini-sex-dolls/" title="mini sex doll">mini sex doll</a>
